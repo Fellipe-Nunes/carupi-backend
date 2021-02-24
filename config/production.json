@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://carupi:carupi123@cluster0.28k4z.mongodb.net/carupi?retryWrites=true&w=majority",
+    "jwtSecret": "6225b40ed1134756635678c5be4c9a53",
+    "githubToken": "<yoursecrectaccesstoken>"
+}

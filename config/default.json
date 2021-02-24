@@ -1,0 +1,8 @@
+{
+    "mongoURI": "mongodb+srv://carupi:carupi123@cluster0.28k4z.mongodb.net/carupi?retryWrites=true&w=majority",
+    "jwtSecret": "6225b40ed1134756635678c5be4c9a53",
+    "AWS_ACCESS_KEY_ID":"AKIAI2GVMRPVUF2TD55A",
+    "AWS_SECRET_ACCESS_KEY":"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",
+    "S3_BUCKET_NAME":"backconcessionaria",
+    "BUCKET_PUBLIC_PATH":"https://backconcessionaria.s3-sa-east-1.amazonaws.com/"
+}

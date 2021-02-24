@@ -1,0 +1,30 @@
+{
+  "name": "carupi-backend",
+  "version": "1.0.0",
+  "description": "BackEnd",
+  "main": "server.js",
+  "author": "Fellipe Nunes",
+  "license": "ISC",
+  "engines": {
+    "node": "15.10.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.851.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-validator": "^6.10.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
